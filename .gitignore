@@ -15,6 +15,7 @@ Cargo.toml.orig
 
 # Arquivos de ambiente
 .env
+*.vscode
 
 # Arquivos de log
 *.log
