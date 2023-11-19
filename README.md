@@ -4,4 +4,4 @@
 
 ### Documentação Original 
 
-- https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/std/iter/trait.IntoIterator.html
+- https://doc.rust-lang.org/rust-by-example/flow_control/match.html
